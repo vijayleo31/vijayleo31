@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Yadav</h1>
 <h3 align="center">A passionate developer & Cybersecurity expert from India</h3>
-
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.git" alt-"">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayleo31&label=Profile%20views&color=0e75b6&style=flat" alt="vijayleo31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayleo31" alt="vijayleo31" /></a> </p>
