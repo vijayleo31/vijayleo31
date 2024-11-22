@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **linux, bash, react**
 
-- 📫 How to reach me **vijayyadavvj312gmail.com**
+- 📫 How to reach me **vijayyadavvj31gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
